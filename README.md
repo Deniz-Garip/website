@@ -51,8 +51,7 @@
         <h1 style="color: white; text-align: center;margin-top: 200px;">🌱 What I am doing </h1>
         <h2 style="color: white; text-align: center; padding: 0 20px;">
             I’m studying at the University of South Wales. It’s my first year and I’m a student. I’m taking programming and security courses. I spend most of my time working on my assessments and improving my English.
-            </h1>
-        </section>
+            
     
     <section id="Hobbies">
        <h1 style="color: white; text-align: center; margin-top: 200px;">🌱Hobbies</h1>
@@ -113,5 +112,4 @@
         
     </nav>
         
-</body>
-</html>
+
